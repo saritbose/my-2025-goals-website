@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 30px;
+    border: 5px solid black;
+}
+h1{
+    text-align: center;
+    font-size: 300%;
+}
+#goals{
+    text-align: center;
+}
+h2{
+    margin-left: 265px;
+    font-size: 150%;
+}
+.container{
+    text-align: left;
+    margin-left: 270px;
+    padding: 0px;
+}
+.container h3{
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+.container p{
+    margin-top: 10px;
+}
